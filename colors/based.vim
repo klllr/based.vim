@@ -17,7 +17,6 @@ if exists("syntax_on")
    syntax reset
 endif
 
-match Space /\s/
 let g:colors_name="based"
 
 highlight StatusLine      guifg=White   guibg=#080808 gui=bold
@@ -99,3 +98,5 @@ highlight Identifier      guifg=#FFCC00
 highlight PreProc         guifg=#AAFFFF
 highlight Special         guifg=#11CF01
 highlight Regexp          guifg=#44B4CC
+
+match Space /\s/
