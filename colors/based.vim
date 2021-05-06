@@ -18,7 +18,7 @@ if exists("syntax_on")
 endif
 
 match Space /\s/
-let g:colors_name = based " on what?
+let g:colors_name="based"
 
 highlight StatusLine      guifg=White   guibg=#080808 gui=bold
 highlight StatusLineNC    guifg=#eeeeee guibg=#1c1c1c gui=none
