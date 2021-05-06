@@ -23,7 +23,7 @@ highlight StatusLine      guifg=White   guibg=#080808 gui=bold
 highlight StatusLineNC    guifg=#eeeeee guibg=#1c1c1c gui=none
 highlight SLC0            guifg=#00AF06 guibg=#000000 gui=NONE
 highlight SLC1            guifg=#00AF06 guibg=#0A0A0A gui=NONE
-highlight SLCodestats     guifg=#FFFFFF guibg=#660033 gui=NONE
+highlight SLCodestats     guifg=#FFFFFF guibg=#0202FF gui=NONE
 highlight SLCoc           guifg=#ccaa00 guibg=#000000 gui=NONE
 highlight SLTitle         guifg=#CCCCFF guibg=#000000
 highlight SLTicker        guifg=#00ff06 guibg=#000000 gui=reverse,bold
