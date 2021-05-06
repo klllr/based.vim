@@ -68,7 +68,6 @@ highlight WarningMsg      guifg=#cc0000
 highlight Error           guibg=#AA0000
 highlight Todo            guifg=#32c5ff
 highlight IconNameDevicon guifg=White
-" FIXME: Comments
 
 
 highlight Folded          guibg=#110077 guifg=#aaddee
