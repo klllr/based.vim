@@ -95,7 +95,7 @@ highlight Type            guifg=#FFFFCC
 highlight Constant        guifg=#339999
 highlight String          guifg=#66FF00
 highlight Identifier      guifg=#FFCC00
-highlight PreProc         guifg=#AAFFFF
+highlight PreProc         guifg=#88FFFF
 highlight Special         guifg=#11CF01
 highlight Regexp          guifg=#44B4CC
 
