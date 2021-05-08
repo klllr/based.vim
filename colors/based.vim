@@ -19,16 +19,19 @@ endif
 
 let g:colors_name="based"
 
+
 highlight StatusLine      guifg=White   guibg=#080808 gui=bold
 highlight StatusLineNC    guifg=#eeeeee guibg=#1c1c1c gui=none
+
+" Status line columns.
 highlight SLC0            guifg=#00AF06 guibg=#000000 gui=NONE
 highlight SLC1            guifg=#00AF06 guibg=#0A0A0A gui=NONE
 highlight SLCodestats     guifg=#FFFFFF guibg=#0202FF gui=NONE
 highlight SLCoc           guifg=#ccaa00 guibg=#000000 gui=NONE
 highlight SLTitle         guifg=#CCCCFF guibg=#000000
 highlight SLTicker        guifg=#00ff06 guibg=#000000 gui=reverse,bold
+"
 
-highlight Space           guifg=#0A0A0A
 highlight ColorColumn     guibg=#0A0A0A
 highlight SignColumn      guibg=#000000
 highlight Comment         guifg=#aa00dd
@@ -98,5 +101,3 @@ highlight Identifier      guifg=#FFCC00
 highlight PreProc         guifg=#88FFFF
 highlight Special         guifg=#11CF01
 highlight Regexp          guifg=#44B4CC
-
-match Space /\s/
